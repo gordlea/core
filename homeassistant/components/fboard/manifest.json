@@ -1,0 +1,15 @@
+{
+  "domain": "fboard",
+  "name": "fboard",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/fboard",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@gordlea"
+  ],
+  "iot_class": "cloud_polling"
+}
